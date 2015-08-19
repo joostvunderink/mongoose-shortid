@@ -2,7 +2,7 @@
   "name": "mongoose-shortid",
   "description": "Short Ids for mongoose",
   "author": "Jason Choy <jjwchoy@gmail.com>",
-  "version": "0.4.2",
+  "version": "0.4.3",
   "contributors": [
     {
       "name": "Jason Choy",
